@@ -685,5 +685,3 @@ function viewTotalUtilizedBudgetOfDepartment() {
 process.on("exit", () => {
     connection.end();
 });
-// Thank you for viewing!
-// Thomas Calle 😊
