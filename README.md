@@ -127,7 +127,7 @@ SOFTWARE.
 
 ## Author
 
-Follow me on Github at [JuanJimenez](https://github.com/JJTheDev)! Additional questions or concerns? feel free to contact me at thomas.calle@outlook.com.
+Follow me on Github at [JuanJimenez](https://github.com/JJTheDev)
 
 Until next, adios!
 
