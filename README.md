@@ -1,10 +1,10 @@
-# Thomas & Friends SQL: Employee Tracker 
+# SQL: Employee Tracker 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
 
-Thomas & Friends SQL: Employee Tracker is 'Thomas' and 'Tom' themed SQL employee data base tracker of Thomas Calle's(thats me by the way) fantasy employee famous fictional, non-fictional, characters, celebrities, significant figures team. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
+ Employee Tracker is 'Thomas' and 'Tom' themed SQL employee data base tracker of Thomas Calle's(thats me by the way) fantasy employee famous fictional, non-fictional, characters, celebrities, significant figures team. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
 
 ## Table of Contents:
 - [Overview](#Overview)
@@ -56,18 +56,16 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![](./assets/images/Demo.GIF)
 
 ## Usage Instructions
-1. Open the content management systems (CMS) named "Thomas & Friends SQL Employee Tracker".
+1. Open the content management systems (CMS) named "SQL-Employee-Tracker".
 2. Open 'Intergrated Terminal' on 'server.js' and enter 'node server.js'
 3. Use the 'UP' and 'DOWN' arrow keys to navigate the command line. 
 4. Click 'enter' or 'return' on your respective choice.
 5. Follow all commad line prompts as directed until desired choice has been met.
-6. Additionally, for more in-depth instructions [Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
+
 
 ## Repository Link:
-[Repository Link 'Click Here'.](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
+[Repository Link 'Click Here'.](https://github.com/JJTheDev/SQL-Employee-Tracker)
 
-## YouTube Walkthrough Video:
-[Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
 
 ## Screenshots.
 ### Figure 1. Command line interface
@@ -106,7 +104,7 @@ THEN I am prompted to select an employee to update and their new role and this i
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 Thomas Calle
+### Copyright © 2023 Juan Jimenez
 ```md
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -129,8 +127,8 @@ SOFTWARE.
 
 ## Author
 
-Follow me on Github at [ThomasCalle](https://github.com/ThomasCalle)! Additional questions or concerns? feel free to contact me at thomas.calle@outlook.com.
+Follow me on Github at [JuanJimenez](https://github.com/JJTheDev)! Additional questions or concerns? feel free to contact me at thomas.calle@outlook.com.
 
 Until next, adios!
 
-© 2023 [ThomasCalle](https://github.com/ThomasCalle). Confidential and Proprietary. All Rights Reserved.
+© 2023 [JuanJimenez](https://github.com/JJTheDev). Confidential and Proprietary. All Rights Reserved.
