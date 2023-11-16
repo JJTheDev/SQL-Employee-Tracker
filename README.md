@@ -4,7 +4,7 @@
   
 ## Description:
 
- Employee Tracker is 'Thomas' and 'Tom' themed SQL employee data base tracker of Thomas Calle's(thats me by the way) fantasy employee famous fictional, non-fictional, characters, celebrities, significant figures team. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
+ Employee Tracker is fantasy employee famous fictional, non-fictional, characters, celebrities, significant figures team. The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
 
 ## Table of Contents:
 - [Overview](#Overview)
@@ -72,7 +72,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![](./assets/images/Module12-Screenshot.jpg)
 
 ## Installation Process
-1. Clone or download the zip.folder of the repository: [Thomas' SQL Employee Tracker](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
+1. Clone or download the zip.folder of the repository: [SQL Employee Tracker](https://github.com/JJTheDev/SQL-Employee-Tracker)
 2. Install the following: 
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 - MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
